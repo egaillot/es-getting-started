@@ -1,0 +1,23 @@
+{
+  "name": "es-getting-started",
+  "version": "1.0.0",
+  "description": "Intentionnally untested kickstarter for an Extreme Startup server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "engines": {
+    "nodes": "12.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egaillot/es-getting-started.git"
+  },
+  "author": "Emmanuel Gaillot",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/egaillot/es-getting-started/issues"
+  },
+  "homepage": "https://github.com/egaillot/es-getting-started#readme"
+}
